@@ -1,9 +1,10 @@
 import React from 'react';
+import NavBar from "./components/Navbar.jsx";
 
 const App = () => {
     return (
         <div>
-            <h1 className={'text-red-800'}>Test text</h1>
+           <NavBar />
         </div>
     );
 };
