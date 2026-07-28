@@ -39,7 +39,7 @@ const Showcase = () => {
                         <h2>Rocket Chip</h2>
 
                         <div className="space-y-5 mt-7 pe-10">
-                            <p>
+                            <p> A`
                                 Introducing {" "}
                                 <span className="text-white">
                                     M4, the next generation of Apple silicon
